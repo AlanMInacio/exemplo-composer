@@ -1,0 +1,16 @@
+{
+    "name": "alan/exemplocomposer",
+    "description": "Exemplo composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alan130",
+            "email": "74604961+alan130@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "cocur/slugify": "9999999-dev"
+    }
+}
